@@ -8,98 +8,98 @@ const products = [
     id: 1,
     name: "Bamboo Toothbrush",
     price: 99,
-    image: "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?auto=format&fit=crop&w=800&q=80",
+    image: "https://thenaturallivingshop.co.uk/wp-content/uploads/2022/11/tnls-goldrick-bamboo-toothbrush-01.jpg",
     description: "Eco-friendly toothbrush made from sustainable bamboo."
   },
   {
     id: 2,
     name: "Reusable Coffee Cup",
     price: 249,
-    image: "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=800&q=80",
+    image: "https://i.guim.co.uk/img/media/c230d65fbee560a2721a544ef2826849163c7a1d/373_0_2534_2534/master/2534.jpg?width=445&dpr=1&s=none&crop=none",
     description: "Stylish reusable cup to reduce single-use waste."
   },
   {
     id: 3,
     name: "Stainless Steel Bottle",
     price: 499,
-    image: "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=800&q=80",
+    image: "https://nestasia.in/cdn/shop/products/cover_e619b7de-9cec-4e97-a1b6-26404a08dcee.jpg?v=1658833105",
     description: "Durable reusable bottle for daily hydration."
   },
   {
     id: 4,
     name: "Organic Cotton Tote Bag",
     price: 199,
-    image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80",
+    image: "https://www.totebagsprint.com/s2/874_993_s_g_Natural_White_Organic_Cotton_Tote_Bag_zo16a.jpg",
     description: "Reusable tote bag perfect for shopping."
   },
   {
     id: 5,
     name: "Wooden Cutlery Set",
     price: 179,
-    image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt-SatUEuZrxhG-up6X8CjdQ2A7ld7S1Ke6w&s",
     description: "Portable eco-friendly cutlery set for meals on the go."
   },
   {
     id: 6,
     name: "Reusable Metal Straw Set",
     price: 149,
-    image: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=800&q=80",
+    image: "https://images-na.ssl-images-amazon.com/images/I/51PXG8oBG7L.jpg",
     description: "Stainless steel straws with cleaning brush."
   },
   {
     id: 7,
     name: "Natural Loofah Scrubber",
     price: 129,
-    image: "https://images.unsplash.com/photo-1583947215259-38e31be8751f?auto=format&fit=crop&w=800&q=80",
+    image: "https://suspire.in/cdn/shop/files/natural-loofah-body-scrubber-pack-of-2-oval-personal-care-518_cfb3fcc7-7613-4c62-9f63-aaeb114e5dc9_1080x.jpg?v=1739356634",
     description: "Biodegradable bath scrubber made from natural loofah."
   },
   {
     id: 8,
     name: "Eco Dishwashing Brush",
     price: 159,
-    image: "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=800&q=80",
+    image: "https://designstuff.com.au/cdn/shop/files/DESIGNSTUFFEcoDishBrush_White.jpg?v=1760415365&width=1080",
     description: "Wooden handle brush for sustainable kitchen cleaning."
   },
   {
     id: 9,
     name: "Beeswax Food Wraps",
     price: 299,
-    image: "https://images.unsplash.com/photo-1514996937319-344454492b37?auto=format&fit=crop&w=800&q=80",
+    image: "https://www.beeswrap.com/cdn/shop/files/2022_BTS_Website_Update_2_1920x.png?v=1659014107",
     description: "Reusable wraps for storing food without plastic."
   },
   {
     id: 10,
     name: "Compost Bin",
     price: 699,
-    image: "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=800&q=80",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAyHTVHlADxS-oUZGsHpltAMK8i-4xdnICag&s",
     description: "Compact compost bin for home kitchen waste."
   },
   {
     id: 11,
     name: "Plantable Seed Pencils",
     price: 99,
-    image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=800&q=80",
+    image: "https://rukminim2.flixcart.com/image/480/480/xif0q/pencil/n/r/f/plantable-seed-seed-paper-original-imah2azjcsw7bnu9.jpeg?q=90",
     description: "Pencils that can be planted after use to grow herbs."
   },
   {
     id: 12,
     name: "Solar Power Bank",
     price: 1299,
-    image: "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?auto=format&fit=crop&w=800&q=80",
+    image: "https://i0.wp.com/www.ecomena.org/wp-content/uploads/2020/07/Solar-Powered-Power-Bank-scaled.jpg",
     description: "Portable solar-powered charger for eco-conscious travel."
   },
   {
     id: 13,
     name: "Coconut Shell Bowl",
     price: 349,
-    image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80",
+    image: "https://www.kadamhaat.com/cdn/shop/files/coconut-shell-bowls-with-spoon-set-893556.jpg?v=1763038881",
     description: "Handcrafted bowl made from reclaimed coconut shells."
   },
   {
     id: 14,
     name: "Reusable Produce Bags",
     price: 219,
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80",
+    image: "https://www.publicgoods.com/cdn/shop/files/reusable_mesh_grocery_bag_lifestyle_01.jpg?v=1756388987&width=1200",
     description: "Washable mesh bags for fruits and vegetables."
   }
 ];
