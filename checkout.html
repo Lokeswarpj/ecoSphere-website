@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EcoSphere - Checkout</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <nav>
+      <div class="logo">EcoSphere</div>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="cart.html">Cart</a></li>
+        <li><a href="orders.html">Orders</a></li>
+      </ul>
+      <ul id="userArea">
+        <li><a href="login.html">Login</a></li>
+        <li><a href="signup.html">Signup</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <div class="form-container">
+    <h2>Checkout Details</h2>
+    <form onsubmit="placeOrder(event)">
+      <input type="text" id="phone" placeholder="Phone Number" required>
+      <textarea id="address" placeholder="Delivery Address" rows="4" required></textarea>
+      <button type="submit" class="btn">Place Order</button>
+    </form>
+  </div>
+
+  <footer>
+    <p>© 2026 EcoSphere | Thoughtful choices for everyday living.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
